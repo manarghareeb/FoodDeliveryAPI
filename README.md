@@ -271,8 +271,6 @@ Once the application is running, you can test the API using the included `E-Comm
 
 ## 🔗 Connect With Me
 
-📝 TODO — Add your links:
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manar-ghareeb)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manarghareeb)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manarghareeb1973@gmail.com)
